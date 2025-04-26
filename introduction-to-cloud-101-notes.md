@@ -2,8 +2,6 @@
 
 Welcome to **Cloud 101**, your starting point for understanding the essentials of cloud computing and launching your journey into the world of Amazon Web Services (AWS).
 
-Whether you're completely new to cloud or looking to reinforce your fundamentals, this course sets the stage for deeper learning and career exploration in the cloud space.
-
 ---
 
 ## 🎯 Course Objectives
@@ -155,35 +153,6 @@ Throughout this course, you’ll interact with AWS through hands-on labs using:
 
 ---
 
-## 🧭 Entry-Level Career Paths
-
-Here are four common entry-level roles in cloud computing:
-
-1. 👨‍💻 **Cloud Support Associate**  
-   Helps customers troubleshoot and operate AWS services.
-
-2. 🔧 **Junior Cloud/DevOps Engineer**  
-   Works with CI/CD, automation, and infrastructure provisioning tools.
-
-3. 🧠 **Solutions Architect (Associate Level)**  
-   Designs basic cloud architectures for clients or teams.
-
-4. 📞 **Cloud Sales/Technical Account Manager**  
-   Bridges the gap between technical solutions and customer needs.
-
----
-
-## 📈 What’s Next?
-
-After completing **Cloud 101**, you can:
-
-- 📘 Study for the **AWS Certified Cloud Practitioner** exam
-- 🔨 Start building small cloud projects
-- 👩‍💻 Apply for internships or cloud bootcamps
-- 🤝 Join cloud communities like AWS User Groups or Reddit forums
-- 🚀 Explore intermediate AWS topics (e.g., ECS, CloudFormation, CI/CD pipelines)
-
----
 
 ## 👋 Final Thoughts
 
@@ -193,7 +162,3 @@ Keep learning. Keep experimenting. And keep building. 🛠️
 
 ---
 
-📬 **Have feedback, suggestions, or want to contribute?**  
-Feel free to open an issue or submit a pull request!
-
----
